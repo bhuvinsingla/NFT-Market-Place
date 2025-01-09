@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CryptoKet - NFT MarketPlace
 
 ![App Screenshot](assets/nft-marketplace.jpg)
@@ -10,8 +9,6 @@ This application includes creation, buying, selling and reselling of NFTs and us
 Context api is used for state management and tailwind css is used for styling the application. Solidity is used to write smart contract and hardhat is used to test the smart contract.
 
 ## Getting Started
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
