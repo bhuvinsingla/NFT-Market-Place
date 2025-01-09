@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CryptoKet - NFT MarketPlace
 
 ![App Screenshot](assets/nft-marketplace.jpg)
@@ -58,3 +59,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+=======
+# NFT-Market-Place
+>>>>>>> 01ca0ca3196886fc657818b0c00eeda3a41f9a36
